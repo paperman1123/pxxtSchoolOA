@@ -1,0 +1,26 @@
+.search{
+	margin-left:670px;
+}
+.search #text{
+	width:200px;
+	height:40px;
+	border:1px solid #cacaca;
+}
+#btn{
+	width:80px;
+	height:40px;
+	background:#00AAFF;
+	border:none;
+	margin-left:20px;
+	border-radius:2px;
+}
+#add{
+	width:80px;
+	height:40px;
+	background:#00AAFF;
+	border:none;
+	position:absolute;
+	border-radius:2px;
+	right:50px;
+	top:76px;
+} 
